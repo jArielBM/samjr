@@ -1,0 +1,91 @@
+[
+  {
+    "id": "pintura",
+    "title": "Pintura industrial y señalización vial",
+    "image": "img/samjr-content/CAPUFE/paint-application-TEPOTZ/img6.jpg",
+    "summary": "Aplicación de sistemas anticorrosivos y señalización vial conforme a normativas.",
+    "description": "Servicio especializado en aplicación de recubrimientos industriales anticorrosivos, pintura estructural y señalización vial. Cumplimos con normativas vigentes para garantizar durabilidad, seguridad y resistencia en ambientes industriales y exteriores.",
+    "catalog": null
+  },
+  {
+    "id": "soldadura",
+    "title": "Soldadura industrial",
+    "image": "img/samjr-content/PILGRIMS-CUES/installation-steel-structur-ROBOTIC-ARM/img6.jpg",
+    "summary": "Servicios SMAW, GMAW y FCAW en acero al carbón e inoxidable.",
+    "description": "Realizamos trabajos de soldadura industrial utilizando procesos SMAW, GMAW y FCAW en distintos materiales como acero al carbón e inoxidable. Garantizamos uniones seguras, certificadas y de alta resistencia para aplicaciones estructurales e industriales.",
+    "catalog": null
+  },
+  {
+    "id": "estructuras",
+    "title": "Estructuras metálicas",
+    "image": "img/samjr-content/HEARTLAND FOODS/platform-maintenance-TULT/img6.jpg",
+    "summary": "Diseño, fabricación y montaje de estructuras industriales.",
+    "description": "Diseñamos, fabricamos y montamos estructuras metálicas para proyectos industriales, comerciales y de infraestructura. Nuestro enfoque garantiza seguridad estructural, eficiencia y cumplimiento de estándares de calidad.",
+    "catalog": null
+  },
+  {
+    "id": "obra",
+    "title": "Obra civil y construcción",
+    "image": "img/samjr-content/CAPUFE/concrete-pouring-TEPOZ/img2.jpg",
+    "summary": "Cimentaciones, losas y urbanización con control de calidad.",
+    "description": "Desarrollamos proyectos de obra civil incluyendo cimentaciones, losas, pavimentación y urbanización. Aplicamos controles de calidad en cada etapa para asegurar resultados duraderos y seguros.",
+    "catalog": null
+  },
+  {
+    "id": "industrial",
+    "title": "Construcción industrial",
+    "image": "img/services/industrial.jpg",
+    "summary": "Instalación y modificación de sistemas mecánicos industriales.",
+    "description": "Ofrecemos servicios de construcción industrial enfocados en la instalación, modificación y optimización de sistemas mecánicos. Nos adaptamos a las necesidades específicas de cada planta o proyecto.",
+    "catalog": null
+  },
+  {
+    "id": "mantenimiento",
+    "title": "Mantenimiento industrial",
+    "image": "img/samjr-content/HEARTLAND FOODS/mechanic-maintenance-TULT/img2.jpg",
+    "summary": "Mantenimiento preventivo, correctivo y predictivo.",
+    "description": "Brindamos mantenimiento industrial integral: preventivo, correctivo y predictivo. Nuestro objetivo es maximizar la eficiencia operativa y reducir tiempos de paro en maquinaria y sistemas.",
+    "catalog": null
+  },
+  {
+    "id": "concreto",
+    "title": "Pavimentación de concreto",
+    "image": "img/samjr-content/CAPUFE/concrete-pouring-TEPOZ/img8.jpg",
+    "summary": "Colocación de concreto hidráulico para vialidades y patios.",
+    "description": "Ejecutamos trabajos de pavimentación con concreto hidráulico para vialidades, patios industriales y plataformas. Garantizamos resistencia, durabilidad y acabados de alta calidad.",
+    "catalog": null
+  },
+  {
+    "id": "maquinado",
+    "title": "Maquinados industriales",
+    "image": "img/samjr-content/HEARTLAND FOODS/mechanic-maintenance-TULT/img1.jpg",
+    "summary": "Torneado, fresado y cepillado con alta precisión.",
+    "description": "Servicios de maquinado industrial que incluyen torneado, fresado y cepillado. Trabajamos con alta precisión para fabricar piezas y componentes bajo especificaciones técnicas exactas.",
+    "catalog": null
+  },
+  {
+    "id": "manoobra",
+    "title": "Mano de obra especializada",
+    "image": "img/samjr-content/HEARTLAND FOODS/construction-partition-walls-TULT/img2.jpg",
+    "summary": "Personal técnico calificado para proyectos industriales.",
+    "description": "Proveemos personal técnico altamente calificado para proyectos industriales. Nuestro equipo cuenta con experiencia y certificaciones para integrarse eficientemente a cualquier operación.",
+    "catalog": null
+  },
+
+  {
+    "id": "quimicos",
+    "title": "Venta de productos químicos",
+    "image": "img/alt.jpg",
+    "summary": "Suministro de productos químicos para procesos industriales.",
+    "description": "Ofrecemos venta y suministro de productos químicos para diferentes aplicaciones industriales, incluyendo limpieza, tratamiento y procesos especializados. Garantizamos calidad, disponibilidad y asesoría técnica.",
+    "catalog": null
+  },
+  {
+    "id": "curado",
+    "title": "Venta de equipos para cuartos de curado",
+    "image": "img/samjr-content/OTHERS/paint-application-COLD-STORAGE-ROOM/img4.jpg",
+    "summary": "Equipos especializados para procesos de curado industrial.",
+    "description": "Suministramos equipos para cuartos de curado utilizados en procesos industriales. Incluyen soluciones eficientes para control de temperatura, humedad y tiempos de curado.",
+    "catalog": null
+  }
+]
