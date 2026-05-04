@@ -34,7 +34,7 @@
   {
     "id": "industrial",
     "title": "Construcción industrial",
-    "image": "img/services/industrial.jpg",
+    "image": "img/samjr-content/PILGRIMS-CUES/conveyor-installation/img1.jpg",
     "summary": "Instalación y modificación de sistemas mecánicos industriales.",
     "description": "Ofrecemos servicios de construcción industrial enfocados en la instalación, modificación y optimización de sistemas mecánicos. Nos adaptamos a las necesidades específicas de cada planta o proyecto.",
     "catalog": null
@@ -78,7 +78,7 @@
     "image": "img/alt.jpg",
     "summary": "Suministro de productos químicos para procesos industriales.",
     "description": "Ofrecemos venta y suministro de productos químicos para diferentes aplicaciones industriales, incluyendo limpieza, tratamiento y procesos especializados. Garantizamos calidad, disponibilidad y asesoría técnica.",
-    "catalog": null
+    "catalog": "img/constructor.jpg"
   },
   {
     "id": "curado",

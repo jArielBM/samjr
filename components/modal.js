@@ -11,15 +11,13 @@ export function openModal(item) {
   modal.innerHTML = `
     <div class="modal-content">
       <span class="close">&times;</span>
-      <img src="${item.image}" />
+      <img src="${item.image}" alt="${item.title}">
       <h2>${item.title}</h2>
       <p>${item.description}</p>
-      
+
       ${
         item.catalog
-          ? `<a href="${item.catalog}" download>
-               Descargar catálogo
-             </a>`
+          ? `<a href="${item.catalog}" download>Descargar catálogo</a>`
           : ""
       }
     </div>
